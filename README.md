@@ -8,3 +8,5 @@ And lastly i had to create checkboxes.
 
 For the function 'password_generate(leng)', i had to create three variables.
 uppercase_letters, lowercase_letters and numbers.
+The uppercase_letters, lowercase_letters and numbers all had checkboxes so i made functions saying if this checkbox is clicked, make the password contain an equal amount of uppercase_letters, lowercase_letters and numbers.
+I also made a dropdown which allowed you to select how many characters you wanted in your password.
